@@ -44,6 +44,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConstructorThis.cs" />
+    <Compile Include="DelegateComoParametro.cs" />
+    <Compile Include="ExcecoesPersonalizadas.cs" />
+    <Compile Include="Exceptions.cs" />
+    <Compile Include="LINQ1.cs" />
+    <Compile Include="LINQ2.cs" />
+    <Compile Include="ManipulandoArquivos1.cs" />
+    <Compile Include="MetodosDeExtensao.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
